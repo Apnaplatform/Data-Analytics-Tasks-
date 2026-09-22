@@ -70,6 +70,6 @@ Add screenshots of your dashboard here to showcase the project.
 
 ## 👨‍💻 Author
 
-**Jitin**
+**Satyam**
 
 This project was created as a frontend/dashboard development project for learning, practice, and portfolio purposes.
